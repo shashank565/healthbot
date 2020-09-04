@@ -1,0 +1,57 @@
+bot: Hello im a HEALTHBOT
+user : im 21
+bot : - fine, How about your health ? are you okay?
+user : yes im healthy
+bot : - That's great to hear it !!
+user : yes i am healthy
+bot : - That's great to hear it !!
+user : what is Dolo-650 used for?
+bot : - its often used for fever,headache and body pain! do you have any as such symptoms
+user : i have mild symptoms
+bot : - take a Dolo-650 tablet after your meal
+user : saridon
+bot : - it is for intense headache
+user : nise
+bot : - Okay, this is a symptom of cold, do you have cold?
+user : what is nise used for
+bot : - it is typically a pain killer! however its high dosage leads to problems related to liver ! consult your doctor !
+user : im in bangalore
+bot : - Thats great ! what is your age?
+user : im 21
+bot : - fine, How about your health ? are you okay?
+user : yes
+bot : - Bye. Nice talking to you
+user : wait
+bot : - Not much. How are you feeling today?
+user : i have fever,cough,breathing problem
+bot : - now be careful! do not step out of your home ! isolate yourself !
+user : hello im shashank
+bot : - okay welcome to healthbot services.
+user : who are you?
+bot : - im a healthbot ! i can assist you in your health related queries !! whare do you stay??
+user : i stay in bangalore
+bot : - Thats great ! what is your age?
+user : im 21
+bot : - fine, How about your health ? are you okay?
+user : im healthy
+bot : - That's great to hear it !!
+user : i need some info on  some tablets
+bot : - give some specific tablet name prescribed for you.
+user : what is dolo
+bot : - its often used for fever,headache and body pain! do you have any as such symptoms
+user : dolo 650
+bot : - its often used for fever,headache and body pain! do you have any as such symptoms
+user : saridon?
+bot : - it is for intense headache
+user : what is nise tablet for?
+bot : - it is typically a pain killer! however its high dosage leads to problems related to liver ! consult your doctor !
+user : i have fever, fatigue,cough and breathing problem
+bot : - now be careful! do not step out of your home ! isolate yourself !
+user : surely ! what are the precautions should i take ??
+bot : - I strongly reccomend you to drink only hot water, if possible take a DOLO-650 tablet if fever is high !
+user : medicine for cough
+bot : - You should take a spoon full of benadryl after your meal.
+user : thank you
+bot : - happy to help!
+user : bye
+bot : - Bye. Nice talking to you
